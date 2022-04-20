@@ -1,5 +1,5 @@
 [package]
-name = "lmdb-rkv-sys"
+name = "lmdb-sys"
 # NB: When modifying, also modify html_root_url in lib.rs
 version = "0.11.2"
 authors = ["Dan Burkert <dan@danburkert.com>", "Victor Porof <vporof@mozilla.com>"]
