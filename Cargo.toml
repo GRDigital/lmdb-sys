@@ -8,7 +8,6 @@ description = "Rust bindings for liblmdb."
 documentation = "https://docs.rs/lmdb-sys2"
 homepage = "https://github.com/GRDigital/lmdb-sys"
 repository = "https://github.com/GRDigital/lmdb-sys.git"
-readme = "../README.md"
 keywords = ["LMDB", "database", "storage-engine", "bindings", "library"]
 categories = ["database", "external-ffi-bindings"]
 
